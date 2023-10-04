@@ -1,9 +1,5 @@
 ### Hi!
-I'm Iván, a web app developer.
-
-These are some of the things I'm currently trying to learn:
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ee1aacb128dce3cb8bbbb8?variant=dark&roadmaps=software-design-architecture)](https://roadmap.sh)
+I'm Iván, a web app developer with a little over 10 years of experience.
 
 <!--
 **IvanRL22/IvanRL22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
