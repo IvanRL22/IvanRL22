@@ -1,4 +1,4 @@
-Just trying to git gud (punt absolutely intended)
+Just trying to git gud (pun absolutely intended)
 
 <!--
 **IvanRL22/IvanRL22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
