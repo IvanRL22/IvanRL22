@@ -1,5 +1,7 @@
 Just trying to git gud (pun absolutely intended)
 
+My latest adventure is learning [Rust](https://www.rust-lang.org/es). You can see how I'm doing [here](https://github.com/IvanRL22/learningRust)
+
 <!--
 **IvanRL22/IvanRL22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
